@@ -1,0 +1,8 @@
+README
+setup.cfg
+cuisines/__init__.py
+cuisines/cuisines.py
+cuisines.egg-info/PKG-INFO
+cuisines.egg-info/SOURCES.txt
+cuisines.egg-info/dependency_links.txt
+cuisines.egg-info/top_level.txt
